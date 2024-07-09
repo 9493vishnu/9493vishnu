@@ -1,6 +1,6 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align = "right" alt = "Coding"width = "400" src = "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9493vishnu&label=Profile%20views&color=0e75b6&style=flat" alt="9493vishnu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9493vishnu" alt="9493vishnu" /></a> </p>
